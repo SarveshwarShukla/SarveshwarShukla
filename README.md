@@ -50,4 +50,5 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarveshwarshukla&show_icons=true&locale=en" alt="sarveshwarshukla" /></p>   -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SarveshwarShukla&theme=blue-green" alt="sarveshwarshukla" /></p>  
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarveshwarshukla&" alt="sarveshwarshukla" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarveshwarshukla&" alt="sarveshwarshukla" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SarveshwarShukla&theme=blue-green" /></p>
