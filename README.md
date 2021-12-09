@@ -2,8 +2,7 @@
 <h3 align="center">A normal CyberSecurity Enthusiast and a Programmer</h3>  
   
   <!-- <br>  -->
-<p align="left"> <a href="https://twitter.com/a__soldier" target="blank"><img src="https://img.shields.io/twitter/follow/a__soldier?logo=twitter&style=for-the-badge" alt="samrattshukla" /></a> </p>  
-
+<p align="left"> <a href="https://twitter.com/a__soldier" target="blank"><img src="https://img.shields.io/twitter/follow/a__soldier?logo=twitter&style=for-the-badge" alt="samrattshukla" /></a> </p>
 
 - I’m looking to solve problems on LIFE
 
@@ -36,20 +35,16 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle"  /> </a>   
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"  /> </a>   
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFE873" alt="python"  /> </a>   
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity"  /> </a> </p>  
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity"  /> </a> </p>
 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>  
 <p align="left" >
 
-<a href = "https://twitter.com/a__soldier"> <img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="sarveshwarshukla" /> </a>  <a href = "https://in.linkedin.com/in/sarveshwar-shukla"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sarveshwarshukla" /> </a>  <a href="https://www.hackerrank.com/SarveshwarShukla" ><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="sarveshwarshukla" /></a>  <a href="https://www.leetcode.com/SarveshwarShukla" ><img  src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="sarveshwarshukla" /></a>
-
+<a href = "https://twitter.com/a__soldier"> <img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="sarveshwarshukla" /> </a> &nbsp; <a href = "https://in.linkedin.com/in/sarveshwar-shukla"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sarveshwarshukla" /> </a> &nbsp; <a href="https://www.hackerrank.com/SarveshwarShukla" ><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="sarveshwarshukla" /></a> &nbsp;<a href="https://www.leetcode.com/SarveshwarShukla" ><img  src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="sarveshwarshukla" /></a>
 
 <!-- Github stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshwarShukla&theme=blue-green&show_icons=true&locale=en&layout=compact" alt="sarveshwarshukla" /></p>
-
-
-
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=SarveshwarShukla&theme=blue-green" alt="sarveshwarshukla" /></p>  
   
