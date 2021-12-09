@@ -5,7 +5,7 @@
   
 <p align="left"> <a href="https://twitter.com/a__soldier" target="blank"><img src="https://img.shields.io/twitter/follow/a__soldier?logo=twitter&style=for-the-badge" alt="samrattshukla" /></a> </p>  
   
-- I’m currently [Project1-link](Project1-link)  
+
   
 - I’m currently learning **((Frameworks, courses etc))**  
   
@@ -19,11 +19,11 @@
   
 - 💬 Ask me about **((react, vue, gasp etc))**  
   
-- 📫 How to reach me **((email))**  
+- 📫 How to reach me **sarveshwarshukla27@gmail.com**  
   
 - 📄 Know about my experiences [((resume-link)](((resume-link))  
   
-- ⚡ Fun fact **I think ((something funny))**  
+
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
