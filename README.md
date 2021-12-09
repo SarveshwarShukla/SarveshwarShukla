@@ -12,7 +12,7 @@
   
 - 
   
-- Website [((portfolio-link))](((https://www.sarveshwarshukla.com/)))  
+- Website [https://www.sarveshwarshukla.com/](https://www.sarveshwarshukla.com/)  
   
 - 📝 I sometimes write my thoughts on [((blog-link))](((https:)))  
   
