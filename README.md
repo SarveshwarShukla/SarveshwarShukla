@@ -9,19 +9,19 @@
   
   
 - I’m looking to solve problems on LIFE
+
+- I like to code
   
-- 
+- Some of My works at [https://www.sarveshwarshukla.com/](https://www.sarveshwarshukla.com/)  
   
-- Website [https://www.sarveshwarshukla.com/](https://www.sarveshwarshukla.com/)  
   
-- 📝 I sometimes write my thoughts on [((blog-link))](((https:)))  
+- I sometimes write my thoughts on [https://twitter.com/a__soldier](https://twitter.com/a__soldier) or  [https://www.sarveshwarshukla.com/](https://www.sarveshwarshukla.com/)  
   
-- 💬 Ask me about **Below languages and Tools**  
+- How to reach me **sarveshwarshukla27@gmail.com**  
   
-- 📫 How to reach me **sarveshwarshukla27@gmail.com**  
+- Ask me about **Below languages and Tools**  
   
-- 📄 Know about my experiences [((resume-link)](((resume-link))  
-  
+
 
   
 <h3 align="left">Connect with me:</h3>  
