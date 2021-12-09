@@ -18,7 +18,7 @@
 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>  
-<p align="left" style="display:flex;">
+<p align="left" display:"flex">
 
 <a href = "https://twitter.com/a__soldier"> <img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="sarveshwarshukla" /> </a>
 
@@ -36,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SarveshwarShukla&theme=blue-green" alt="sarveshwarshukla" /></p>  
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SarveshwarShukla&theme=blue-green" /></p>
+<p><img align="center" src="https://stars.medv.io/Naereen/badges.svg" /></p>
