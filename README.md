@@ -33,22 +33,16 @@
 <p align="left">  
 <a href="https://twitter.com/samrattshukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samrattshukla" height="30" width="40" /></a>  
 <a href="https://linkedin.com/in/((linkedin))" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="((linkedin))" height="30" width="40" /></a>  
-<a href="https://stackoverflow.com/users/((stackoverflow user id))" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="((stackoverflow user id))" height="30" width="40" /></a>  
-<a href="https://www.youtube.com/c/((youtube channel))" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="((youtube channel))" height="30" width="40" /></a>  
-<a href="https://www.codechef.com/users/((codechef username))" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="((codechef username))" height="30" width="40" /></a>  
+ 
 <a href="https://www.hackerrank.com/((hackerrank))" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="((hackerrank))" height="30" width="40" /></a>  
-<a href="https://codeforces.com/profile/((codeforces username))" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="((codeforces username))" height="30" width="40" /></a>  
+
 <a href="https://www.leetcode.com/((leetcode)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="((leetcode)" height="30" width="40" /></a>  
-<a href="https://www.hackerearth.com/((hackerearth))" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="((hackerearth))" height="30" width="40" /></a>  
-<a href="https://auth.geeksforgeeks.org/user/((geeks for geeks username))" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="((geeks for geeks username))" height="30" width="40" /></a>  
-<a href="https://discord.gg/((discord invite - only code))" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="((discord invite - only code))" height="30" width="40" /></a>  
-</p>  
   
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarveshwarshukla&show_icons=true&locale=en&layout=compact" alt="sarveshwarshukla" /></p>   -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshwarShukla&theme=blue-green&show_icons=true&locale=en&layout=compact" alt="sarveshwarshukla" /></p>  <br> hello
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshwarShukla&theme=blue-green&show_icons=true&locale=en&layout=compact" alt="sarveshwarshukla" /></p>  
   
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarveshwarshukla&show_icons=true&locale=en" alt="sarveshwarshukla" /></p>   -->
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SarveshwarShukla&theme=blue-green" alt="sarveshwarshukla" /></p>  
   
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarveshwarshukla&" alt="sarveshwarshukla" /></p> -->
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SarveshwarShukla&theme=blue-green" /></p>
