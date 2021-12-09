@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello!  My name is Sarveshwar Shukla</h1>  
-<h3 align="center">A normal CyberSecurity Enthusiast and a programmer</h3>  
+<h3 align="center">A normal CyberSecurity Enthusiast and a Programmer</h3>  
   
   
 <p align="left"> <a href="https://twitter.com/a__soldier" target="blank"><img src="https://img.shields.io/twitter/follow/a__soldier?logo=twitter&style=for-the-badge" alt="samrattshukla" /></a> </p>  
