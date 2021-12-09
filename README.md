@@ -42,6 +42,7 @@
 
 <a href="https://www.leetcode.com/SarveshwarShukla" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="((leetcode)" /></a>  
   
+  <img  src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white"  />&nbsp;&nbsp;<img  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"  />&nbsp;&nbsp;<img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"  />&nbsp;&nbsp;
 
 <!-- Github stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshwarShukla&theme=blue-green&show_icons=true&locale=en&layout=compact" alt="sarveshwarshukla" /></p>  
