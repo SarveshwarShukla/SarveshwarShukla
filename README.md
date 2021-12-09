@@ -4,7 +4,7 @@
   <!-- <br>  -->
 <p align="left"> <a href="https://twitter.com/a__soldier" target="blank"><img src="https://img.shields.io/twitter/follow/a__soldier?logo=twitter&style=for-the-badge" alt="samrattshukla" /></a> </p>
 
-- I’m looking to solve problems on LIFE
+- I am looking to solve problems on LIFE
 
 - I like to code
 - Some of My works at [https://www.sarveshwarshukla.com/](https://www.sarveshwarshukla.com/)
