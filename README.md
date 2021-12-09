@@ -7,17 +7,16 @@
   
 
   
-- I’m currently learning **((Frameworks, courses etc))**  
   
-- I’m looking to solve problems on [LIFE and programming](Project2-link)  
+- I’m looking to solve problems on LIFE
   
-- I’m looking for help with [Project3](Project3-link)  
+- 
   
-- 👨‍💻 All of my projects are available at [((portfolio-link))](((portfolio-link)))  
+- Website [((portfolio-link))](((https://www.sarveshwarshukla.com/)))  
   
-- 📝 I regularly write articles on [((blog-link))](((blog-link)))  
+- 📝 I sometimes write my thoughts on [((blog-link))](((https:)))  
   
-- 💬 Ask me about **((react, vue, gasp etc))**  
+- 💬 Ask me about **Below languages and Tools**  
   
 - 📫 How to reach me **sarveshwarshukla27@gmail.com**  
   
