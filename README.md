@@ -2,7 +2,7 @@
 <h3 align="center">A normal CyberSecurity Enthusiast and a Programmer</h3>  
   
   <!-- <br>  -->
-<p align="left"> <a href="https://twitter.com/a__soldier" target="blank"><img src="https://img.shields.io/twitter/follow/a__soldier?logo=twitter&style=for-the-badge" alt="samrattshukla" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/a__soldier" target="blank"><img src="https://img.shields.io/twitter/follow/a__soldier?logo=twitter&style=for-the-badge" alt="samrattshukla" /></a> </p> -->
 
 - I am looking to solve problems on LIFE
 
