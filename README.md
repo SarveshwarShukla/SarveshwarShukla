@@ -7,8 +7,8 @@
 - I am looking to solve problems on LIFE
 
 - I like to code
-- Some of My works at [https://www.sarveshwarshukla.com/](https://www.sarveshwarshukla.com/)
-- I sometimes write my thoughts on [https://twitter.com/a\_\_soldier](https://twitter.com/a__soldier) or [https://www.sarveshwarshukla.com/](https://www.sarveshwarshukla.com/)
+- Some of My works at [https://portfolio.sarveshwarshukla.com/](https://portfolio.sarveshwarshukla.com/)
+- I sometimes write my thoughts on [https://think.letsuniverse.com/](https://think.letsuniverse.com/) or [https://www.sarveshwarshukla.com/](https://www.sarveshwarshukla.com/)
 - How to reach me **sarveshwarshukla27@gmail.com**
 - Ask me about **Below languages and Tools**
 
