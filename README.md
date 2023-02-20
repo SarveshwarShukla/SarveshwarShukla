@@ -1,9 +1,7 @@
-<center>
+<h1 align="center">Hi there, My name is Sarveshwar Shukla!</h1>
+<h3 align="center">React Developer | Cybersecurity Enthuciast</h3>
 
-# Hi there, My name is Sarveshwar Shukla! 
-### React Developer | Cybersecurity Enthuciast
 
-</center>
 
 [![hello world](./letsuniverse.svg)](https://letsuniverse.com)
 
