@@ -54,37 +54,32 @@ I'm a Learner based in Bharat. I like to think.
 
 ## Some of the Projects
 
-Here are some of my most notable projects:
-
-- [Project 1 Name](link)
-  - Description of Project 1
-- [Project 2 Name](link)
-  - Description of Project 2
-- [Project 3 Name](link)
-  - Description of Project 3
+- [LetsUniverse](https://www.letsuniverse.com/) - A vision to improve the lives of people which they are living.
+- [Lets Think](https://think.letsuniverse.com/) - A place to share thoughts.
+- [Lets Read](https://read.letsuniverse.com/) - A place to share knowledge.
 
 ## Programming Profiles and Socials
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=F89F1B)](https://leetcode.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23402819.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%232F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%2332C766.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=F89F1B)](https://leetcode.com/SarveshwarShukla/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23402819.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/sarveshwar_s)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%232F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sarveshwarshukla27/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2332C766.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/SarveshwarShukla)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-%23040F0F.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:youremail@example.com)
-[![Personal Website](https://img.shields.io/badge/website-%23ED8B00.svg?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)](https://www.your-website.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarveshwar-shukla/)
+[![Email](https://img.shields.io/badge/Email-%23040F0F.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sarveshwarshukla27@gmail.com)
+[![Personal Website](https://img.shields.io/badge/website-%23ED8B00.svg?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)](https://www.sarveshwarshukla.com/)
 
 
 
 ## Stats
 
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: flex-start; gap: 0.3rem; flex-wrap: wrap;">
+<!-- <div> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshwarShukla&theme=blue-green&show_icons=true&locale=en&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshwarShukla&theme=blue-green&show_icons=true&locale=en&layout=compact)
+
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SarveshwarShukla&theme=blue-green)](https://github-readme-stats.vercel.app/api?username=SarveshwarShukla&theme=blue-green)
 </div>
-
-## Github Activity
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SarveshwarShukla&theme=blue-green)](https://git.io/streak-stats)
   
