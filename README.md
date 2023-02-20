@@ -1,51 +1,90 @@
-<h1 align="center">Hello!  My name is Sarveshwar Shukla</h1>  
-<h3 align="center">A normal CyberSecurity Enthusiast and a Programmer</h3>  
+<center>
+
+# Hi there, My name is Sarveshwar Shukla! 
+### React Developer | Cybersecurity Enthuciast
+</center>
+
+[![hello world](./letsuniverse.svg)](https://letsuniverse.com)
+
+## A brief about
+
+I'm a Learner based in Bharat. I like to think.
+
+- I am looking to solve problems on Life. 
+- I think.
+- I sometimes code.
+- Some of my works are at [https://portfolio.sarveshwarshukla.com.](https://portfolio.sarveshwarshukla.com)
+- I sometimes write at [https://think.letsuniverse.com/](https://think.letsuniverse.com/)
+- How to reach me sarveshwarshukla27@gmail.com
+
+
+## Languages and Tools
+### Primary 
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+<!-- [![LetsUniverse](https://img.shields.io/badge/LetsUniverse-%23000000.svg?style=for-the-badge&logo=sanity&logoColor=white)](https://www.letsuniverse.com/) -->
+
+
+### Occasional
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
+[![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) 
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+
+
+
+
+## Some of the Projects
+
+Here are some of my most notable projects:
+
+- [Project 1 Name](link)
+  - Description of Project 1
+- [Project 2 Name](link)
+  - Description of Project 2
+- [Project 3 Name](link)
+  - Description of Project 3
+
+## Programming Profiles and Socials
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=F89F1B)](https://leetcode.com/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23402819.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%232F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2332C766.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-%23040F0F.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:youremail@example.com)
+[![Personal Website](https://img.shields.io/badge/website-%23ED8B00.svg?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)](https://www.your-website.com)
+
+
+
+## Stats
+
+<div style="display: flex; align-items: flex-start;">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshwarShukla&theme=blue-green&show_icons=true&locale=en&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshwarShukla&theme=blue-green&show_icons=true&locale=en&layout=compact)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SarveshwarShukla&theme=blue-green)](https://github-readme-stats.vercel.app/api?username=SarveshwarShukla&theme=blue-green)
+</div>
+
+## Github Activity
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SarveshwarShukla&theme=blue-green)](https://git.io/streak-stats)
   
-  <!-- <br>  -->
-<p align="left"> <a href="https://twitter.com/a__soldier" target="blank"><img src="https://img.shields.io/twitter/follow/a__soldier?logo=twitter&style=for-the-badge" alt="samrattshukla" /></a> </p>
-
-- I am looking to solve problems on LIFE
-
-- I like to code
-- Some of My works at [https://portfolio.sarveshwarshukla.com/](https://portfolio.sarveshwarshukla.com/)
-- I sometimes write my thoughts on [https://think.letsuniverse.com/](https://think.letsuniverse.com/) or [https://www.sarveshwarshukla.com/](https://www.sarveshwarshukla.com/)
-- How to reach me **sarveshwarshukla27@gmail.com**
-- Ask me about **Below languages and Tools**
-
-<h3 align="left">Languages and Tools:</h3>  
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"/> </a>    <a href="https://www.apache.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="android"/> </a>  
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender" /> </a>   
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" /> </a>   
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"  /> </a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"  /> </a>   
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)" alt="css3"  /> </a>   
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django"  /> </a>   
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)" alt="flask"  /> </a>   
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter"  /> </a>   
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"  /> </a>   
-<a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"  /> </a>   
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"  /> </a>   
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"  /> </a>   
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"  /> </a>   
-<a href="https://www.kali.org/get-kali/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="kalilinux"  /> </a>   
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"  /> </a>   
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"  /> </a>   
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"  /> </a>   
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"  /> </a>   
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle"  /> </a>   
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"  /> </a>   
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFE873" alt="python"  /> </a>   
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity"  /> </a> </p>
-
-<!-- Connect with me -->
-<h3 align="left">Connect with me:</h3>  
-<p align="left" >
-
-<a href = "https://twitter.com/a__soldier"> <img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="sarveshwarshukla" /> </a> &nbsp; <a href = "https://in.linkedin.com/in/sarveshwar-shukla"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sarveshwarshukla" /> </a> &nbsp; <a href="https://www.hackerrank.com/SarveshwarShukla" ><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="sarveshwarshukla" /></a> &nbsp;<a href="https://www.leetcode.com/SarveshwarShukla" ><img  src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="sarveshwarshukla" /></a>
-
-<!-- Github stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarveshwarShukla&theme=blue-green&show_icons=true&locale=en&layout=compact" alt="sarveshwarshukla" /></p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=SarveshwarShukla&theme=blue-green" alt="sarveshwarshukla" /></p>  
-  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SarveshwarShukla&theme=blue-green" /></p>
