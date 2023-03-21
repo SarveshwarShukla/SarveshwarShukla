@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, My name is Sarveshwar Shukla!</h1>
-<h3 align="center">React Developer | Cybersecurity Enthuciast</h3>
+<h3 align="center">JavaScript Developer | Cybersecurity Enthusiast</h3>
 
 
 
